@@ -1,7 +1,7 @@
 # Hi there, I'm Daniel Puentes 👋
 ### Statistical Data Scientist | Cloud & AI Engineer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/daniel-puentes-rocha/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/daniel-felipe-puentes-rocha-824435108/) 
 [![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:danipuentes10@gmail.com)
 
 ## 👨‍💻 About Me
