@@ -1,51 +1,59 @@
-## Hi there 👋
+# Hi there, I'm Daniel Puentes 👋
+### Statistical Data Scientist | Cloud & AI Engineer
 
-## About Me
-I'm a data enthusiast who loves turning numbers into actionable insights 📊. I work with Python, R, and Java, and I bring data to life using Power BI and Excel. I'm always eager to learn new technologies and communicate complex ideas clearly.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/daniel-puentes-rocha/) 
+[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:danipuentes10@gmail.com)
 
-## Technical Skills
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)  ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)  ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)  ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)  ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+## 👨‍💻 About Me
+I am a **Statistician (Final Year)** at Universidad Nacional de Colombia passionate about **Time Series Analysis**, **Stochastic Modeling**, and **Artificial Intelligence**.
 
+My core strength lies in analyzing **dynamic environments**—where data changes rapidly and uncertainty is high. I combine rigorous statistical theory with modern **Cloud Engineering** to build scalable systems that turn noise into decisions, whether in energy, tech, or research.
 
-## Strengths & Interests
-- 🔍 Clear communication of insights
-- 🚀 Continuous learning and self-improvement
-- 🤝 Collaborative teamwork in multidisciplinary settings
-- 💡 Passion for data science and visualization
-
-# 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=dapuentes&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=dapuentes&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dapuentes&theme=dark&hide_border=false&include_all_commits=false&layout=compact)
+- 🔭 **I’m currently working on:** Building **RAG (Retrieval-Augmented Generation)** systems and AI Agents using **LangChain** and **GCP** to solve unstructured data challenges.
+- 💼 **Experience:** Former Data Scientist at **ISA**, dealing with high-frequency data and complex system modeling.
+- 🌱 **I’m currently learning:** Generative AI Architecture, Vector Databases, and Advanced MLOps.
 
 ---
 
-### ✍️ Random Dev Quote  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 🛠️ Technical Stack
 
-### 🔝 Top Contributed Repo  
-![](https://github-contributor-stats.vercel.app/api?username=dapuentes&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### **Core & Modeling**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### **Cloud & Engineering**
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=dapuentes&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🚀 Featured Projects
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🧠 **Academic Insight Agent (RAG)**
+*An AI assistant for researchers to query complex statistical papers.*
+- **Stack:** Python, LangChain, Pinecone (Vector DB), OpenAI/Gemini API.
+- **Goal:** To extract and synthesize theoretical concepts from unstructured PDF documents.
+- **Status:** *In Progress* 🚧
 
-## Contact Me
-- **Email:** [dapuentes@unal.com](mailto:dapuentes@unal.com)
+### 📉 **Dynamic System Monitor & Forecasting**
+*Full-stack analytical tool for real-time volatility tracking.*
+- **Stack:** Python, Google Cloud Platform (Pub/Sub, Functions), React.
+- **Impact:** Automated ingestion of high-frequency data streams for decision-making.
 
-<!--
-**dapuentes/dapuentes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📊 GitHub Stats
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=dapuentes&show_icons=true&theme=dark&hide_border=true" alt="dapuentes" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dapuentes&layout=compact&theme=dark&hide_border=true" alt="dapuentes" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+<p align="center">
+  <i>"In God we trust. All others must bring data." — W. Edwards Deming</i>
+</p>
